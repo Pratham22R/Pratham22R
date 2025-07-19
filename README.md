@@ -118,15 +118,15 @@ I have been learning fullStack development from past 2 yrs and along the course 
 
 <div align="center">
 
-  <!-- Side-by-side GitHub Stats + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true" width="45%" style="margin: 10px;" />
+  <!-- GitHub Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true" width="45%" style="margin: 10px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&stroke=ffffff&background=0f172a&ring=3b82f6&fire=f97316&currStreakNum=ffffff&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" style="margin: 10px;" />
 
   <br/><br/>
 
-  <!-- Top Languages with layout=compact to reduce height -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true" width="60%" style="margin: 10px;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&langs_count=8&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true" width="60%" style="margin: 10px;" />
 
 </div>
 
@@ -134,16 +134,17 @@ I have been learning fullStack development from past 2 yrs and along the course 
 
 <br/><br/>
 
-# Top Repositories
+#  Top Repositories
 
 <div align="center">
 
   <a href="https://github.com/Pratham22R/wanderlust_website">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=wanderlust_website&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=wanderlust_website&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" />
   </a>
 
   <a href="https://github.com/Pratham22R/IntriAI">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=IntriAI&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=IntriAI&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" />
   </a>
 
 </div>
+<br></br>
