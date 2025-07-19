@@ -1,98 +1,149 @@
-<h1 align="center">Hi 👋, I'm Pratham Raghuvanshi</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Next.js Enthusiast</h3>
+Hi 👋 My name is Pratham Raghuvanshi
+====================================
 
-<p align="center">
-  Passionate about building scalable, real-time web applications and crafting seamless digital experiences.
-</p>
+FullStack Developer
+-------------------
 
----
+I have been learning fullStack development from past 2 yrs and along the course of time have managed to pull off some exciting realtime/dynamic projects. Getting myself in the race to learn new technologies has raise the standard of my personal ability and work.
 
-### 📍 About Me
+* 🌍  I'm based in Greater Noida
+* 🖥️  See my portfolio at [My website](http://pratham-portfolio-op6k.onrender.com/)
+* ✉️  You can contact me at [pratham2262003@gmail.com](mailto:pratham2262003@gmail.com)
+* 🚀  I'm currently working on [IntriAI](http://github.com/Pratham22R/IntriAI)
+* 🧠  I'm learning Socket.io
+* 🤝  I'm open to collaborating on Nextjs || MERN || Designing
+<br/><br/>
+# Skills
+<br/><br/>
 
-- 🔭 I’m currently working on **[IntriAI](https://github.com/Pratham22R/IntriAI)**
-- 🌱 I’m learning **Socket.io**
-- 🤝 I’m open to collaborating on **Next.js || MERN || UI/UX Projects**
-- 🌍 Based in **Greater Noida, India**
-- 🌐 Portfolio: [pratham-portfolio-op6k.onrender.com](https://pratham-portfolio-op6k.onrender.com)
-- ✉️ Email: [pratham2262003@gmail.com](mailto:pratham2262003@gmail.com)
+<div align="center">
+  <!-- Row 1 (widest) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="45" style="filter: brightness(90%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="45" style="filter: invert(100%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+</div>
 
----
+<br/><br/>
 
-### 🛠️ Skills
+<div align="center">
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+</div>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://chakra-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://render.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
-<a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://framer.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
-</p>
+<br/><br/>
 
----
+<div align="center">
+  <!-- Row 3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" style="filter: invert(100%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+</div>
 
-### 🌐 Socials
+<br/><br/>
 
-<p align="left">
-  <a href="https://discord.com/users/pratham226" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+<div align="center">
+  <!-- Row 4 (narrowest) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+</div>
+
+<br/><br/>
+
+# Connect with Me
+<br/><br/>
+<div align="left">
+  <!-- Discord -->
+  <a href="https://discord.com/users/pratham226" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35" alt="Discord" title="Discord" />
+    </picture>
   </a>
-  <a href="https://www.github.com/Pratham22R" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://www.github.com/Pratham22R" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" alt="GitHub" title="GitHub" />
+    </picture>
   </a>
-  <a href="http://www.instagram.com/pratham_22_raghuvanshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
+  <a href="http://www.instagram.com/pratham_22_raghuvanshi" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="35" height="35" alt="Instagram" title="Instagram" />
+    </picture>
   </a>
-  <a href="https://www.linkedin.com/in/pratham-raghuvanshi-9b782127b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pratham-raghuvanshi-9b782127b/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" alt="LinkedIn" title="LinkedIn" />
+    </picture>
   </a>
-  <a href="https://www.threads.net/@pratham_22_raghuvanshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Threads -->
+  <a href="https://www.threads.net/@pratham_22_raghuvanshi" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="35" height="35" alt="Threads" title="Threads" />
+    </picture>
   </a>
-</p>
+</div>
 
----
+<br/><br/>
 
-### 📊 GitHub Stats
+# GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
----
+  <!-- Side-by-side GitHub Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true" width="45%" style="margin: 10px;" />
 
-### 📌 Featured Projects
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" style="margin: 10px;" />
 
-<p align="center">
+  <br/><br/>
+
+  <!-- Top Languages with layout=compact to reduce height -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true" width="60%" style="margin: 10px;" />
+
+</div>
+
+
+
+<br/><br/>
+
+# Top Repositories
+
+<div align="center">
+
   <a href="https://github.com/Pratham22R/wanderlust_website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=wanderlust_website&theme=radical&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=wanderlust_website&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+
   <a href="https://github.com/Pratham22R/IntriAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=IntriAI&theme=radical&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=IntriAI&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</p>
+
+</div>
