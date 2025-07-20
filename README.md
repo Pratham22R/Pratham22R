@@ -21,14 +21,17 @@ I have been learning fullStack development from past 2 yrs and along the course 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="45" style="filter: brightness(90%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<br/><br/>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="45" style="filter: brightness(90%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="45" style="filter: invert(100%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
 </div>
-
 <br/><br/>
-
 <div align="center">
   <!-- Row 2 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
@@ -52,7 +55,7 @@ I have been learning fullStack development from past 2 yrs and along the course 
 
 <div align="center">
   <!-- Row 4 (narrowest) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="45" style="margin: 35px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
 </div>
@@ -115,20 +118,26 @@ I have been learning fullStack development from past 2 yrs and along the course 
 <br/><br/>
 
 # GitHub Stats
+<br/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<div align="center">
+  <!-- GitHub Stats Card -->
+  <div style="width: 430px; height: 240px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&hide=prs&theme=radical&border_radius=12&hide_border=false" width="100%" height="100%" />
+  </div>
 
-  <!-- GitHub Stats + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true" width="45%" style="margin: 10px;" />
+  <!-- GitHub Streak Card -->
+  <div style="width: 430px; height: 240px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&theme=radical&border_radius=12&hide_border=false" width="100%" height="100%" />
+  </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&stroke=ffffff&background=0f172a&ring=3b82f6&fire=f97316&currStreakNum=ffffff&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" style="margin: 10px;" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&langs_count=8&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true" width="60%" style="margin: 10px;" />
-
+  <!-- Top Languages (new row) -->
+  <div style="width: 430px; height: 240px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&theme=radical&border_radius=12&langs_count=8&hide_border=false" width="100%" height="100%"/>
+  </div>
 </div>
+
+
 
 
 
