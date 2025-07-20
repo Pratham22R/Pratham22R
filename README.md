@@ -55,7 +55,7 @@ I have been learning fullStack development from past 2 yrs and along the course 
 
 <div align="center">
   <!-- Row 4 (narrowest) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="45" style="margin: 35px 25px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
 </div>
