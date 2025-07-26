@@ -1,159 +1,104 @@
-Hi 👋 My name is Pratham Raghuvanshi
-====================================
-
-FullStack Developer
--------------------
-
-I have been learning fullStack development from past 2 yrs and along the course of time have managed to pull off some exciting realtime/dynamic projects. Getting myself in the race to learn new technologies has raise the standard of my personal ability and work.
-
-* 🌍  I'm based in Greater Noida
-* 🖥️  See my portfolio at [My website](http://pratham-portfolio-op6k.onrender.com/)
-* ✉️  You can contact me at [pratham2262003@gmail.com](mailto:pratham2262003@gmail.com)
-* 🚀  I'm currently working on [IntriAI](http://github.com/Pratham22R/IntriAI)
-* 🧠  I'm learning Socket.io
-* 🤝  I'm open to collaborating on Nextjs || MERN || Designing
-<br/><br/>
-# Skills
-<br/><br/>
-
 <div align="center">
-  <!-- Row 1 (widest) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-
-</div>
-
-<br/><br/>
+  <br/>
+  
+  <!-- HEADER SECTION -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="45" style="filter: brightness(90%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="45" style="filter: invert(100%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-</div>
-<br/><br/>
-<div align="center">
-  <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-</div>
+  <br/>
 
-<br/><br/>
+  <h1 style="margin-bottom: 10px;">Hi 👋 My name is <span style="color:#58A6FF;">Pratham Raghuvanshi</span></h1>
+  <h3>FullStack Developer</h3>
 
-<div align="center">
-  <!-- Row 3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" style="filter: invert(100%); margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-</div>
+  <p style="max-width: 700px; text-align: center;">
+    I have been learning fullStack development from the past 2 years and along the course of time have managed to pull off some exciting real-time/dynamic projects.
+    Getting myself in the race to learn new technologies has raised the standard of my personal ability and work.
+  </p>
 
-<br/><br/>
+  <br/>
 
-<div align="center">
-  <!-- Row 4 (narrowest) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" style="margin: 15px 25px;" />&nbsp;&nbsp;&nbsp;
-</div>
+  <ul align="left" style="list-style-type: none; padding-left: 0; font-size: 1.1em;">
+    <li>🌍  I'm based in <b>Greater Noida</b></li>
+    <li>🖥️  See my portfolio at <a href="http://pratham-portfolio-op6k.onrender.com/" target="_blank"><b>My website</b></a></li>
+    <li>✉️  You can contact me at <a href="mailto:pratham2262003@gmail.com"><b>pratham2262003@gmail.com</b></a></li>
+    <li>🚀  I'm currently working on <a href="http://github.com/Pratham22R/IntriAI" target="_blank"><b>IntriAI</b></a></li>
+    <li>🧠  I'm learning <b>Socket.io</b></li>
+    <li>🤝  I'm open to collaborating on <b>Next.js</b> || <b>MERN</b> || <b>Designing</b></li>
+  </ul>
 
-<br/><br/>
-
-# Connect with Me
-<br/><br/>
-<div align="left">
-  <!-- Discord -->
-  <a href="https://discord.com/users/pratham226" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35" alt="Discord" title="Discord" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub -->
-  <a href="https://www.github.com/Pratham22R" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Instagram -->
-  <a href="http://www.instagram.com/pratham_22_raghuvanshi" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="35" height="35" alt="Instagram" title="Instagram" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pratham-raghuvanshi-9b782127b/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Threads -->
-  <a href="https://www.threads.net/@pratham_22_raghuvanshi" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="35" height="35" alt="Threads" title="Threads" />
-    </picture>
-  </a>
-</div>
-
-<br/><br/>
-
-# GitHub Stats
-<br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- GitHub Stats Card -->
-  <div style="width: 430px; height: 240px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&show_icons=true&count_private=true&hide=prs&theme=radical&border_radius=12&hide_border=false" width="100%" height="100%" />
-  </div>
-
-  <!-- GitHub Streak Card -->
-  <div style="width: 430px; height: 240px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham22R&theme=radical&border_radius=12&hide_border=false" width="100%" height="100%" />
-  </div>
-
-  <!-- Top Languages (new row) -->
-  <div style="width: 430px; height: 240px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&layout=compact&theme=radical&border_radius=12&langs_count=8&hide_border=false" width="100%" height="100%"/>
-  </div>
-</div>
-
-
-
-
-
-<br/><br/>
-
-#  Top Repositories
-
-<div align="center">
-
-  <a href="https://github.com/Pratham22R/wanderlust_website">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=wanderlust_website&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" />
-  </a>
-
-  <a href="https://github.com/Pratham22R/IntriAI">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham22R&repo=IntriAI&title_color=3b82f6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" />
-  </a>
-
+  <br/>
 </div>
 <br></br>
+
+  <!-- Skills Icons -->
+<h2 align="center">🚀 Skills & Tools</h2>
+<br/>
+<p align="center" style="margin-top: 20px;">
+  <span>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma,firebase" />
+  </span>
+  <br/>
+  <span style="display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=render,render,render,vite,vercel,postman,prisma,linux,supabase,aws,java,python,clerk,drizzle,stripe,sql" />
+  </span>
+</p>
+
+
+  <!-- Typing Text Banner -->
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=435&lines=Frontend+Developer;Full+Stack+Learner;Open+Source+Contributor;JavaScript+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+  </div>
+  <br/>
+</div>
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham22R&theme=react-dark&bg_color=000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&area_opacity=0.2&hide_border=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="95%" />
+</div>
+
+<!-- STATS SECTION -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham22R&theme=github_dark&hide_border=false&border_color=58A6FF&include_all_commits=true&count_private=true" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&theme=github_dark&hide_border=false&border_color=58A6FF&layout=compact" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Pratham22R&theme=github-dark&hide_border=false&border_color=58A6FF" width="95%" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+</div>
+
+<!-- SNAKE GRAPH -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratham22R/Pratham22R/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratham22R/Pratham22R/output/github-snake.svg" />
+    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/Pratham22R/Pratham22R/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+<br/>
+<!-- ABOUT ME -->
+<div align="center">
+  <h2 style="color: #58A6FF;">🧠 About Me</h2>
+  <br/>
+  <p style="max-width: 700px; color: #ccc; font-size: 1em; text-align: left;">
+    • Passionate about building modern, responsive UIs and full-stack applications<br/><br/>
+    • Experienced with building web projects from scratch to deployment on Vercel and Netlify<br/><br/>
+    • Interested in open-source, design systems, and performance optimization<br/><br/>
+    • Currently learning advanced backend systems and DevOps basics
+  </p>
+</div>
+<br/>
+<!-- CONNECT WITH ME -->
+<div align="center" style="margin-top: 30px;">
+  <h2 style="color: #58A6FF;">📬 Connect With Me</h2>
+  <br/>
+  <p>
+    <a href="https://linkedin.com/in/pratham-raghuvanshi" style="margin: 0 10px">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:youremail@example.com" style="margin: 0 10px">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Pratham22R" style="margin: 0 10px">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
