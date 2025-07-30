@@ -60,6 +60,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham22R&theme=github_dark&hide_border=false&border_color=58A6FF&layout=compact" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
 
+<img src="https://streak-stats.demolab.com?user=shatakshirajput&theme=github-dark&hide_border=false&border_color=14B8A6" width="95%" />
   <br/><br/>
 
  
