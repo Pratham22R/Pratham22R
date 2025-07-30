@@ -62,7 +62,7 @@
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=Pratham22R&theme=github-dark&hide_border=false&border_color=58A6FF" width="95%" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+ 
 </div>
 
 <!-- SNAKE GRAPH -->
