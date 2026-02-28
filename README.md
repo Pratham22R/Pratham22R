@@ -19,7 +19,7 @@
     <li>🌍  I'm based in <b>Greater Noida</b></li>
     <li>🖥️  See my portfolio at <a href="http://pratham-portfolio-op6k.onrender.com/" target="_blank"><b>My website</b></a></li>
     <li>✉️  You can contact me at <a href="mailto:pratham2262003@gmail.com"><b>pratham2262003@gmail.com</b></a></li>
-    <li>🚀  I'm currently working on <a href="http://github.com/Pratham22R/IntriAI" target="_blank"><b>IntriAI</b></a></li>
+    <li>🚀  I'm currently working on <a href="http://github.com/Pratham22R/Roadmap_Generator" target="_blank"><b>AI Powered Roadmap Generator</b></a></li>
     <li>🧠  I'm learning <b>Socket.io</b></li>
     <li>🤝  I'm open to collaborating on <b>Next.js</b> || <b>MERN</b> || <b>Designing</b></li>
   </ul>
