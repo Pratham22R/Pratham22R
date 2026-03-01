@@ -21,7 +21,7 @@
     <li>✉️  You can contact me at <a href="mailto:pratham2262003@gmail.com"><b>pratham2262003@gmail.com</b></a></li>
     <li>🚀  I'm currently working on <a href="http://github.com/Pratham22R/Roadmap_Generator" target="_blank"><b>AI Powered Roadmap Generator</b></a></li>
     <li>🧠  I'm learning <b>Socket.io</b></li>
-    <li>🤝  I'm open to collaborating on <b>Next.js</b> || <b>MERN</b> || <b>Designing</b></li>
+    <li>🤝  I'm open to collaborating on <b>Next.js</b> || <b>MERN</b> || <b>Designing</b> || <b>Gen AI</b></li>
   </ul>
 
   <br/>
